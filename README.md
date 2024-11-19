@@ -16,3 +16,5 @@ I’m currently a student 🧔 in North Sumatera 🏛️<br>🌱 I’m currently
 [![](https://visitcount.itsvg.in/api?id=exaudi26&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+ilyrs
