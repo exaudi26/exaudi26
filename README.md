@@ -1,5 +1,5 @@
 # About My Self
-I’m currently a student 🧔 in North Sumatera 🏛️<br>🌱 I’m currently learning 📗 about Android Development 📲<br>⚡ Fun fact ⚡<br>I prefer a 7/10 rather than 10/10
+I’m currently a student 🧔 in North Sumatera 🏛️<br>🌱 I’m interested in Game Development (Indie) 📲<br>⚡ Fun fact ⚡<br>I prefer a 7/10 rather than 10/10
 
 
 ## 🌐 Socials:
